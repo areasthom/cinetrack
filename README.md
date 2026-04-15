@@ -23,7 +23,7 @@ O sistema também possui lógica de progressão de usuário baseada na quantidad
 
 ---
 
-## 🏗️ Estrutura do projeto
+## 💻️ Estrutura do projeto
 
 O projeto segue uma estrutura simples de camadas:
 
