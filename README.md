@@ -1,6 +1,6 @@
 # 🎬 CineTrack
 
-Sistema de avaliação de filmes desenvolvido em Java, com foco em Programação Orientada a Objetos (POO) e modelagem de regras de negócio.
+> Sistema de avaliação de filmes desenvolvido em Java, com foco em Programação Orientada a Objetos (POO) e modelagem de regras de negócio.
 
 ---
 
